@@ -1,13 +1,13 @@
-baseURL = "http://example.com/"
+baseURL = "http://elben.netlify.com/"
 languageCode = "en-us"
-title = "Minimal"
+title = "My personal web page"
 theme = "minimal"
 
 [params]
-    author = "Calin Tataru"
+    author = "Jakob Jul Elben"
     description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
-    accent = "red"
+    githubUsername = "elben10"
+    accent = "grey"
     showBorder = true
     backgroundColor = "white"
     font = "Quicksand" # should match the name on Google Fonts!
@@ -35,26 +35,26 @@ theme = "minimal"
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:elbenjakobjul@gmail.com"
     name = "envelope-o"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/elben10/"
     name = "github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
+    url = "https://twitter.com/jakobelben/"
     name = "twitter"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
+    url = "https://www.linkedin.com/in/jakobjulelben/"
     name = "linkedin"
     weight = 4
 
 [[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
+    url = "https://www.stackoverflow.com/users/6280351/jakob-jul-elben/"
     name = "stack-overflow"
     weight = 5
