@@ -2,10 +2,6 @@ html, body {
     height: 100%;
 }
 
-h1 {
-  color: blue;
-}
-
 body {
     padding-top: 55px;
     display: flex;
