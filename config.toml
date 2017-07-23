@@ -8,6 +8,7 @@ theme = "minimal"
     description = "Personal blog theme powered by Hugo"
     githubUsername = "elben10"
     accent = "grey"
+    link_color = "blue"
     showBorder = true
     backgroundColor = "white"
     font = "Quicksand" # should match the name on Google Fonts!
