@@ -12,8 +12,8 @@ theme = "minimal"
     backgroundColor = "white"
     font = "Quicksand" # should match the name on Google Fonts!
     highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightStyle = "xcode"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "r"]
 
 [[menu.main]]
     url = "/"
