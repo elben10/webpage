@@ -2,13 +2,20 @@
 
 <main>
 
-
-{{ range .Data.Pages }}
-    {{if eq .Type "index" }} 
-        <h1>{{ .Title }}</h1>
-        {{.Content}}
-    {{end}}
-{{ end }}
+    <div>
+      
+        {{ range .Data.Pages }}
+        
+            {{if eq .Type "index" }} 
+            
+                <h1>{{ .Title }}</h1>
+                
+                    {{.Content}}
+                    
+              {{end}}
+        {{ end }}
+      
+    </div>
 
 
 </main>
