@@ -14,6 +14,7 @@ theme = "minimal"
     highlight = true
     highlightStyle = "xcode"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "r"]
+    css = ["css/style.css"]
 
 [[menu.main]]
     url = "/"
