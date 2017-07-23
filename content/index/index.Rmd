@@ -1,0 +1,11 @@
+---
+title: Welcome to my page
+type: index
+---
+
+```{r}
+library(ggplot2)
+
+ggplot(mtcars, aes(disp, mpg))
+```
+
