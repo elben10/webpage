@@ -2,15 +2,17 @@
 
 <main>
 
-    <div>
+    <div class = "intro">
       
         {{ range .Data.Pages }}
         
             {{if eq .Type "index" }} 
             
                 <h1>{{ .Title }}</h1>
-                
-                    {{.Content}}
+              
+                  
+                  {{.Content}}
+                  
                     
               {{end}}
         {{ end }}
