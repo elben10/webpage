@@ -92,3 +92,7 @@ a:hover {
 footer {
     border-bottom: var(--border-width) solid var(--accent);
 }
+
+p.copyright-text-muted {
+  text-align: center;
+}
