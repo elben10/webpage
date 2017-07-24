@@ -1,0 +1,88 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: /Users/jakobjulelben/OneDrive/Documents/University of Copenhagen/Economics/R/svm-r-markdown-templates-master/svm-latex-cv.tex
+geometry: margin=1in
+lang: da
+
+title: "Curriculum Vitae"
+author: Jakob Jul Elben
+
+jobtitle: "Stud.Polit."
+address: "Økonomisk Institut, Københavns Universitet"
+fontawesome: yes
+email: vzx151@alumni.ku.dk
+# github: svmiller
+phone: "+2897 6408"
+web: 
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Beskæftigelse
+
+*Økonomisk Institut, Københavns Universitet*
+
+Forskningsassistent \hfill Januar 2016 - Nuværende
+
+*Nokas, Nokas Danmark* 
+
+Tælleassistent  \hfill September 2014 - December 2015
+
+# Uddannelse
+
+*Økonomisk Institut, Københavns Universitet*, B.A. Polit \hfill September 2015 - Nuværende
+
+
+# Frivilligt arbejde
+
+*Økonomisk Institut, Københavns Universitet*
+
+Medlem af studienævnet \hfill Januar 2017 - Nuværende
+
+Medlem af studieturskoordineringsudvalget\hfill November 2015 - November 2016
+
+*Studenterrådet ved Københavns Universitet*
+
+Bestyrelsessuppleant \hfill Januar 2016 - Januar 2017
+
+
+
+*Danske Gymnasieelevers Sammenslutning*
+
+Sekretariatsmedlem \hfill Juli 2014 - Juni 2015
+
+Nationalt bestyrelsesmedlem \hfill September 2013 - April 2014
+
+Regionssekretær, Østjylland \hfill  September 2013 - April 2014
+
+# Tekniske færdigheder
+\LaTeX: Indgående kendskab, og dagligt brug.
+
+Office-pakken: Indgående kendskab.
+
+R: Indgående kendskab. 
+
+SAS: Udmærket kendskab.
+
+Stata: Indgående Kendskab.
+
+# Sproglige færdigheder
+
+Dansk: Modersmål.
+
+Engelsk: Flydende.
+
+Tysk: Grundlæggende.
+
+# Referencer
+
+Claus Thustrup Kreiner, professor ved Økonomisk Institut, Københavns Universitet, og min chef under ansættelsen som forskningsassistent. Kontaktoplysninger er tilgængelige ved henvendelse.

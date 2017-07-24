@@ -16,6 +16,7 @@ theme = "minimal"
     highlightStyle = "xcode"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "r"]
     css = ["css/style.css"]
+    ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 [[menu.main]]
     url = "/"
@@ -31,6 +32,11 @@ theme = "minimal"
     url = "/project/"
     name = "Projects"
     weight = 3
+    
+[[menu.main]]
+    url = "/files/CV.pdf"
+    name = "CV"
+    weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
