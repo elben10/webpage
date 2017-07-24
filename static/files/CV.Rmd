@@ -9,13 +9,13 @@ lang: da
 title: "Curriculum Vitae"
 author: Jakob Jul Elben
 
-jobtitle: "Stud.Polit."
-address: "Økonomisk Institut, Københavns Universitet"
+jobtitle: "Student of Economics"
+address: "Department of Economics, University of Copenhagen"
 fontawesome: yes
 email: vzx151@alumni.ku.dk
 # github: svmiller
-phone: "+2897 6408"
-web: 
+phone: "+45 2897 6408"
+web: "elben.netlify.com"
 updated: yes
 
 keywords: R Markdown, academic CV, template
@@ -27,62 +27,59 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-# Beskæftigelse
+# Employment
 
-*Økonomisk Institut, Københavns Universitet*
+*Department of Economics, University of Copenhagen*
 
-Forskningsassistent \hfill Januar 2016 - Nuværende
+Teaching Assistant \hfill September 2017 - Current 
+
+Research Assistant \hfill January 2016 - Current
 
 *Nokas, Nokas Danmark* 
 
-Tælleassistent  \hfill September 2014 - December 2015
+Counting Assistant  \hfill September 2014 - December 2015
 
-# Uddannelse
+# Educational background
 
-*Økonomisk Institut, Københavns Universitet*, B.A. Polit \hfill September 2015 - Nuværende
-
-
-# Frivilligt arbejde
-
-*Økonomisk Institut, Københavns Universitet*
-
-Medlem af studienævnet \hfill Januar 2017 - Nuværende
-
-Medlem af studieturskoordineringsudvalget\hfill November 2015 - November 2016
-
-*Studenterrådet ved Københavns Universitet*
-
-Bestyrelsessuppleant \hfill Januar 2016 - Januar 2017
+*Department of Economics, University of Copenhagen*, B.A. in Economics \hfill September 2015 - Current
 
 
+# Volunteering work
 
-*Danske Gymnasieelevers Sammenslutning*
+*Department of Economics, University of Copenhagen*
 
-Sekretariatsmedlem \hfill Juli 2014 - Juni 2015
+Member of Study Board \hfill January 2017 - Current
 
-Nationalt bestyrelsesmedlem \hfill September 2013 - April 2014
+Coordinator of study trip to Argentina\hfill November 2015 - November 2016
 
-Regionssekretær, Østjylland \hfill  September 2013 - April 2014
+*Study Council at University of Copenhagen*
 
-# Tekniske færdigheder
-\LaTeX: Indgående kendskab, og dagligt brug.
+Substitute of the board \hfill January 2016 - January 2017
 
-Office-pakken: Indgående kendskab.
 
-R: Indgående kendskab. 
 
-SAS: Udmærket kendskab.
+*The Union of Danish Upper Secondary School Students*
 
-Stata: Indgående Kendskab.
+Member of secretary \hfill July 2014 - June 2015
 
-# Sproglige færdigheder
+National board member \hfill September 2013 - April 2014
 
-Dansk: Modersmål.
+Regional secretary, Eastern Jutland \hfill  September 2013 - April 2014
 
-Engelsk: Flydende.
+# Technical abillities 
+\LaTeX: Daily use.
 
-Tysk: Grundlæggende.
+R: Daily use. 
 
-# Referencer
+SAS: Able to use.
 
-Claus Thustrup Kreiner, professor ved Økonomisk Institut, Københavns Universitet, og min chef under ansættelsen som forskningsassistent. Kontaktoplysninger er tilgængelige ved henvendelse.
+Stata: Almost daily use.
+
+# Language 
+
+Danish: first language.
+
+Engelsk: Fluent.
+
+
+*Grades are available on request*.
