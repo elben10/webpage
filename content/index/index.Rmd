@@ -3,6 +3,6 @@ title: Welcome
 type: index
 ---
 
-Welcome to my personal site. My name is Jakob Jul Elben, and I'm an economics student at University of Copenhagen (UCPH), Denmark. Beside my studies I work as an research assistant as well as an teaching assistant at UCPH, and I do also use a quite a bit of time on improving my R skills, which this site will focus mainly on. In the future there will be various posts about R. 
+Welcome to my personal site. My name is Jakob Jul Elben, and I'm an student of economics at University of Copenhagen (UCPH), Denmark. Beside my studies I work as an research assistant as well as an teaching assistant at UCPH, and I do also use a quite a bit of time on improving my R skills, which this site will focus mainly on. In the future there will be various posts about R. 
 
 Jakob Jul Elben
