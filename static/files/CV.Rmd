@@ -13,10 +13,10 @@ jobtitle: "Student of Economics"
 address: "Department of Economics, University of Copenhagen"
 fontawesome: yes
 email: vzx151@alumni.ku.dk
-# github: svmiller
+github: elben10
 phone: "+45 2897 6408"
 web: "elben.netlify.com"
-updated: yes
+updated: no
 
 keywords: R Markdown, academic CV, template
 
